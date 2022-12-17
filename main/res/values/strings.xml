@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">e-Zakatpro</string>
+    <string name="copyright">Copyright &#169; 2022 Nuralia</string>
+    <string name="hyperlink">Please visit <a href="https://github.com/Aliakamis/Assignment-1">here</a> to go to github.</string>
+</resources>
